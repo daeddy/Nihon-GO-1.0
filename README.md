@@ -1,7 +1,7 @@
 <p align="center">
     <img alt="react-native-elements" src="Code/Nihon-GO_App/src/resources/splashscreen.png" width="450">
 </p>
-<br />
+<br/>
 <p align="center" style="margin: auto; padding: 10px;">
     <a href="https://github.com/react-native-training/react-native-elements">
         <img src="Code/Nihon-GO_App/src/resources/Markdown/elements.png" height="50" style="margin: 10px">
@@ -15,7 +15,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/facebook/react-native">
-        <img src="Code/Nihon-GO_App/src/resources/Markdown/react.png" height="90" style="margin: 10px">
+        <img src="Code/Nihon-GO_App/src/resources/Markdown/react.png" height="95" style="margin: 10px">
     </a>
     <a href="https://expo.io/">
         <img src="Code/Nihon-GO_App/src/resources/Markdown/expo.png" height="60" style="margin: 10px">
