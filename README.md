@@ -4,7 +4,7 @@
 <br />
 <p align="center" style="margin: auto; padding: 10px;">
     <a href="https://github.com/facebook/react-native">
-        <img src="Code/Nihon-GO_App/src/resources/Markdownreact.png" width="90" style="margin: 10px">
+        <img src="Code/Nihon-GO_App/src/resources/Markdown/react.png" width="90" style="margin: 10px">
     </a>
     <a href="https://expo.io/">
         <img src="Code/Nihon-GO_App/src/resources/Markdown/expo.png" height="50" style="margin: 10px">
