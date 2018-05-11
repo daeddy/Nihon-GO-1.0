@@ -36,7 +36,7 @@ users to create and use itineraries, and a profile system that allows users to t
 itineraries they create, start and favorite.
 
 ### The Current System
-The project was a newly created project with no previous code. For this reason, our
+The project was a newly created senior project at FIU with no previous code. For this reason, our
 main goal was to create an application with core features and functionalities that also
 has the capability to scale as it continues to grow.
 
