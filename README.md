@@ -13,14 +13,14 @@
         <img src="Code/Nihon-GO_App/src/resources/Markdown/firebase.png" height="50" style="margin: 10px">
     </a>
 </p>
-<p align="center" style="margin: auto; padding: 10px;">
+<p align="center">
     <a href="https://github.com/facebook/react-native">
         <img src="Code/Nihon-GO_App/src/resources/Markdown/react.png" width="90" style="margin: 10px">
     </a>
     <a href="https://expo.io/">
-        <img src="Code/Nihon-GO_App/src/resources/Markdown/expo.png" height="50" style="margin: 10px">
+        <img src="Code/Nihon-GO_App/src/resources/Markdown/expo.png" height="60" style="margin: 10px">
     </a>
-    <a href="https://github.com/aksonov/react-native-router-flux">
+    <a style="margin: 10px" href="https://github.com/aksonov/react-native-router-flux">
         Router Flux
     </a>
 </p>
